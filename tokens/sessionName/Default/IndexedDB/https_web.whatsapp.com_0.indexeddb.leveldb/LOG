@@ -1,0 +1,10 @@
+2023/11/05-04:15:21.885 23a8 Reusing MANIFEST C:\Users\bruno\Desktop\chatbot\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/05-04:15:21.895 23a8 Recovering log #36
+2023/11/05-04:15:22.108 23a8 Reusing old log C:\Users\bruno\Desktop\chatbot\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000036.log 
+2023/11/05-04:15:36.755 23a8 Level-0 table #41: started
+2023/11/05-04:15:36.977 23a8 Level-0 table #41: 1161950 bytes OK
+2023/11/05-04:15:37.390 23a8 Delete type=0 #36
+2023/11/05-04:15:37.417 23a8 Compacting 1@1 + 1@2 files
+2023/11/05-04:15:38.062 23a8 Generated table #42@1: 54415 keys, 1938041 bytes
+2023/11/05-04:15:38.062 23a8 Compacted 1@1 + 1@2 files => 1938041 bytes
+2023/11/05-04:15:38.117 23a8 compacted to: files[ 0 0 1 0 0 0 0 ]
