@@ -1,3 +1,6 @@
-2023/11/01-18:52:47.677 17ac Reusing MANIFEST C:\Users\bruno\Desktop\chatbot\tokens\sessionName\Default\Local Storage\leveldb/MANIFEST-000001
-2023/11/01-18:52:47.677 17ac Recovering log #13
-2023/11/01-18:52:47.678 17ac Reusing old log C:\Users\bruno\Desktop\chatbot\tokens\sessionName\Default\Local Storage\leveldb/000013.log 
+2023/11/23-18:37:42.231 3a98 Reusing MANIFEST C:\Users\bruno\Desktop\chatbot\Chatbot_v1\tokens\sessionName\Default\Local Storage\leveldb/MANIFEST-000001
+2023/11/23-18:37:42.235 3a98 Recovering log #20
+2023/11/23-18:37:42.236 3a98 Reusing old log C:\Users\bruno\Desktop\chatbot\Chatbot_v1\tokens\sessionName\Default\Local Storage\leveldb/000020.log 
+2023/11/23-18:45:43.534 3a98 Level-0 table #24: started
+2023/11/23-18:45:43.568 3a98 Level-0 table #24: 10451 bytes OK
+2023/11/23-18:45:43.591 3a98 Delete type=0 #20

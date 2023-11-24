@@ -1,3 +1,14 @@
-2023/11/01-18:52:49.192 3480 Reusing MANIFEST C:\Users\bruno\Desktop\chatbot\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/01-18:52:49.192 3480 Recovering log #36
-2023/11/01-18:52:49.202 3480 Reusing old log C:\Users\bruno\Desktop\chatbot\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000036.log 
+2023/11/23-18:37:43.861 3a98 Reusing MANIFEST C:\Users\bruno\Desktop\chatbot\Chatbot_v1\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/23-18:37:43.861 3a98 Recovering log #119
+2023/11/23-18:37:43.919 3a98 Reusing old log C:\Users\bruno\Desktop\chatbot\Chatbot_v1\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000119.log 
+2023/11/23-18:37:56.267 24c4 Level-0 table #125: started
+2023/11/23-18:37:56.390 24c4 Level-0 table #125: 1283194 bytes OK
+2023/11/23-18:37:56.458 24c4 Delete type=0 #119
+2023/11/23-18:37:56.497 3a98 Compacting 1@1 + 2@2 files
+2023/11/23-18:37:56.853 3a98 Generated table #126@1: 52848 keys, 2281732 bytes
+2023/11/23-18:37:57.105 3a98 Generated table #127@1: 28677 keys, 1127941 bytes
+2023/11/23-18:37:57.133 3a98 Compacted 1@1 + 2@2 files => 3409673 bytes
+2023/11/23-18:37:57.160 3a98 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/11/23-18:37:57.161 3a98 Delete type=2 #121
+2023/11/23-18:37:57.161 3a98 Delete type=2 #122
+2023/11/23-18:37:57.161 3a98 Delete type=2 #125
