@@ -1,21 +1,3 @@
-2023/11/23-18:54:47.847 32e8 Reusing MANIFEST C:\Users\bruno\Desktop\chatbot\Chatbot_v1\tokens\sessionName\Default\Local Storage\leveldb/MANIFEST-000001
-2023/11/23-18:54:47.850 32e8 Recovering log #23
-2023/11/23-18:54:47.851 32e8 Reusing old log C:\Users\bruno\Desktop\chatbot\Chatbot_v1\tokens\sessionName\Default\Local Storage\leveldb/000023.log 
-2023/11/23-21:07:49.339 3f7c Level-0 table #27: started
-2023/11/23-21:07:49.401 3f7c Level-0 table #27: 9843 bytes OK
-2023/11/23-21:07:49.413 3f7c Delete type=0 #23
-2023/11/24-01:42:03.784 3f7c Level-0 table #29: started
-2023/11/24-01:42:03.889 3f7c Level-0 table #29: 10077 bytes OK
-2023/11/24-01:42:04.034 3f7c Delete type=0 #26
-2023/11/24-01:42:04.035 3f7c Compacting 4@0 + 1@1 files
-2023/11/24-01:42:04.948 3f7c Generated table #30@0: 72 keys, 4481 bytes
-2023/11/24-01:42:04.950 3f7c Compacted 4@0 + 1@1 files => 4481 bytes
-2023/11/24-01:42:05.071 3f7c compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/11/24-01:42:05.072 3f7c Delete type=2 #18
-2023/11/24-01:42:05.072 3f7c Delete type=2 #21
-2023/11/24-01:42:05.127 3f7c Delete type=2 #24
-2023/11/24-01:42:05.127 3f7c Delete type=2 #27
-2023/11/24-01:42:05.127 3f7c Delete type=2 #29
-2023/11/24-02:50:31.916 3f7c Level-0 table #32: started
-2023/11/24-02:50:31.927 3f7c Level-0 table #32: 9952 bytes OK
-2023/11/24-02:50:31.939 3f7c Delete type=0 #28
+2023/11/24-17:17:19.105 3cb8 Reusing MANIFEST C:\Users\bruno\Desktop\chatbot\Chatbot_v1\tokens\sessionName\Default\Local Storage\leveldb/MANIFEST-000001
+2023/11/24-17:17:19.109 3cb8 Recovering log #31
+2023/11/24-17:17:19.110 3cb8 Reusing old log C:\Users\bruno\Desktop\chatbot\Chatbot_v1\tokens\sessionName\Default\Local Storage\leveldb/000031.log 

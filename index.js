@@ -334,13 +334,14 @@ function start(client) {
         
 
     //--------------------------------------Respostas de Documentos--------------------------------------------//
-        if (message.body.toLocaleLowerCase()) {
+
+    if (message.body.toLocaleLowerCase() === "a1" && contador === 2) {
             client
                 .sendFile(
                     message.from,
-                    'documentos/Estudo de caso 1 - MATC92.pdf',
-                    'file_name',
-                    'See my file in pdf'
+                    'documentos/WORD.docx',
+                    'WORD',
+                    'Exemplo de word'
                 )
                 .then((result) => {
                     console.log('Result: ', result); //return object success
@@ -349,14 +350,62 @@ function start(client) {
                     console.error('Error when sending: ', erro); //return object error
                 });
         }
-    
+
+    if (message.body.toLocaleLowerCase() === "a2" && contador === 2) {
+            client
+                .sendFile(
+                    message.from,
+                    'documentos/EXCEL.xlsx',
+                    'EXCEL',
+                    'Exemplo de excel'
+                )
+                .then((result) => {
+                    console.log('Result: ', result); //return object success
+                })
+                .catch((erro) => {
+                    console.error('Error when sending: ', erro); //return object error
+                });
+        }
+
+        if (message.body.toLocaleLowerCase() === "a3" && contador === 2) {
+            client
+                .sendFile(
+                    message.from,
+                    'documentos/powerpoint.pptx',
+                    'POWERPOINT',
+                    'Exemplo de Powerpoint'
+                )
+                .then((result) => {
+                    console.log('Result: ', result); //return object success
+                })
+                .catch((erro) => {
+                    console.error('Error when sending: ', erro); //return object error
+                });
+        }
+
+        if (message.body.toLocaleLowerCase() === "a4" && contador === 2) {
+            client
+                .sendFile(
+                    message.from,
+                    'documentos/PDF.pdf',
+                    'PDF',
+                    'Exemplo de pdf'
+                )
+                .then((result) => {
+                    console.log('Result: ', result); //return object success
+                })
+                .catch((erro) => {
+                    console.error('Error when sending: ', erro); //return object error
+                });
+        }
+
     if (message.body.toLocaleLowerCase() === "a5" && contador === 2) {
             client
                 .sendImage(
                     message.from,
-                    'imagens/charles.jpg',
-                    'image-name',
-                    'Charts Leclerc'
+                    'imagens/logoihac.jpeg',
+                    'logoihac',
+                    'Exemplo de imagem'
                 )
                 .then((result) => {
                     console.log('Result: ', result); //return object success
